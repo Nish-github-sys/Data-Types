@@ -5,6 +5,13 @@ Apparatus: VS Code or Programiz online compiler
 
 Theory: This program illustrates the use of different basic data types in C++: int, float, char, double, string, and bool. It accepts user inputs for each type, displays the entered values, and shows their memory sizes using the sizeof() operator.
 
+1. int: Stores whole numbers without decimals. Usually takes 4 bytes.
+2. float: Stores decimal numbers with single precision. Takes about 4 bytes.
+3. double: Stores decimal numbers with higher precision than float. Uses 8 bytes.
+4. char: Stores a single character. Occupies 1 byte.
+5. string: Stores a sequence of characters (text). Size varies depending on length.
+6. bool: Stores true or false values. Uses 1 byte.
+
 ->The program first takes an integer input and displays its value and size in bytes.
 ->Then it accepts a float value (decimal number) and prints its value and size.
 ->Next, it takes a character input and shows its value and size.
