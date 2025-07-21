@@ -41,3 +41,18 @@ int main(){
     
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+Enter an Integer:2
+Integer is:2 and size is:4bytes
+Enter a Decimal Number for Float:3.4
+Number is:3.4 and size is:4bytes
+Enter a Character:n
+Character is:n and size is:1bytes
+Enter a Decimal Number for Double:4.5
+Number is:4.5 and size is:8bytes
+Enter a String:program
+String is:program and size is:32bytes
+Enter TRUE/FALSE:true
+Input is:0 and size is:1bytes*/
